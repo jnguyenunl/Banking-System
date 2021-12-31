@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<assets>
+<asset>
+  <assetId>0</assetId>
+  <code>BX001-23</code>
+  <type>D</type>
+  <label>Money Market Savings</label>
+  <apr>1.05</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>AGTSAV</code>
+  <type>D</type>
+  <label>Savings Account</label>
+  <apr>0.25</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CD99312</code>
+  <type>D</type>
+  <label>5-year CD</label>
+  <apr>4.35</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CD1Y3X</code>
+  <type>D</type>
+  <label>1-year Rollover CD</label>
+  <apr>2.75</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CD1Y3Y</code>
+  <type>D</type>
+  <label>1-year Rollover CD</label>
+  <apr>2.75</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>RIRA01</code>
+  <type>D</type>
+  <label>Roth IRA</label>
+  <apr>3.4</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>GOOG001</code>
+  <type>S</type>
+  <label>Google Inc.</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <betaMeasure>-0.05</betaMeasure>
+  <baseRateOfReturn>5.6</baseRateOfReturn>
+  <stockSymbol>GOOG</stockSymbol>
+  <sharePrice>814.708</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>DIAGEO12</code>
+  <type>S</type>
+  <label>Diageo PLC</label>
+  <quarterlyDividend>12.0</quarterlyDividend>
+  <betaMeasure>0.01</betaMeasure>
+  <baseRateOfReturn>3.2</baseRateOfReturn>
+  <stockSymbol>DEO</stockSymbol>
+  <sharePrice>122.75</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>123APP</code>
+  <type>S</type>
+  <label>Apple</label>
+  <quarterlyDividend>24.5</quarterlyDividend>
+  <betaMeasure>-0.07</betaMeasure>
+  <baseRateOfReturn>4.3</baseRateOfReturn>
+  <stockSymbol>AAPL</stockSymbol>
+  <sharePrice>429.8</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>321CC</code>
+  <type>S</type>
+  <label>Coca-Cola</label>
+  <quarterlyDividend>5.45</quarterlyDividend>
+  <betaMeasure>0.075</betaMeasure>
+  <baseRateOfReturn>3.1</baseRateOfReturn>
+  <stockSymbol>KO</stockSymbol>
+  <sharePrice>41.08</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>No1BURR</code>
+  <type>S</type>
+  <label>Chipotle Mexican Grill</label>
+  <quarterlyDividend>45.57</quarterlyDividend>
+  <betaMeasure>0.0</betaMeasure>
+  <baseRateOfReturn>3.19</baseRateOfReturn>
+  <stockSymbol>CMG</stockSymbol>
+  <sharePrice>341.91</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>B0oWM</code>
+  <type>S</type>
+  <label>Costco</label>
+  <quarterlyDividend>10.0</quarterlyDividend>
+  <betaMeasure>0.13</betaMeasure>
+  <baseRateOfReturn>2.25</baseRateOfReturn>
+  <stockSymbol>COST</stockSymbol>
+  <sharePrice>106.13</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>N0TPIX</code>
+  <type>S</type>
+  <label>3D Systems</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <betaMeasure>0.08</betaMeasure>
+  <baseRateOfReturn>1.25</baseRateOfReturn>
+  <stockSymbol>DDD</stockSymbol>
+  <sharePrice>35.4</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>wOOWoo1S</code>
+  <type>S</type>
+  <label>Canadian National Railway</label>
+  <quarterlyDividend>2.75</quarterlyDividend>
+  <betaMeasure>0.12</betaMeasure>
+  <baseRateOfReturn>4.6</baseRateOfReturn>
+  <stockSymbol>CNI</stockSymbol>
+  <sharePrice>97.75</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>BERK-B</code>
+  <type>S</type>
+  <label>Berkshire Hathaway</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <betaMeasure>-0.1</betaMeasure>
+  <baseRateOfReturn>7.2</baseRateOfReturn>
+  <stockSymbol>BRK-B</stockSymbol>
+  <sharePrice>107.04</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>RENT445</code>
+  <type>P</type>
+  <label>Rental Property</label>
+  <quarterlyDividend>2400.0</quarterlyDividend>
+  <baseRateOfReturn>0.25</baseRateOfReturn>
+  <baseOmegaMeasure>0.15</baseOmegaMeasure>
+  <totalValue>120000.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CMPROP0121</code>
+  <type>P</type>
+  <label>Commercial Property-Red Oaks Mall</label>
+  <quarterlyDividend>14240.0</quarterlyDividend>
+  <baseRateOfReturn>5.35</baseRateOfReturn>
+  <baseOmegaMeasure>0.25</baseOmegaMeasure>
+  <totalValue>1.0456E7</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>FOOD12</code>
+  <type>P</type>
+  <label>Cluckin&apos;s restaurant chain</label>
+  <quarterlyDividend>35000.0</quarterlyDividend>
+  <baseRateOfReturn>3.0</baseRateOfReturn>
+  <baseOmegaMeasure>0.32</baseOmegaMeasure>
+  <totalValue>1212500.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>REALStr12</code>
+  <type>P</type>
+  <label>Fred&apos;s Fabulous Hardware Store</label>
+  <quarterlyDividend>1232.0</quarterlyDividend>
+  <baseRateOfReturn>1.23</baseRateOfReturn>
+  <baseOmegaMeasure>0.13</baseOmegaMeasure>
+  <totalValue>54300.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>IND321</code>
+  <type>P</type>
+  <label>Industrial Widget Manufacturers Inc.</label>
+  <quarterlyDividend>10500.0</quarterlyDividend>
+  <baseRateOfReturn>2.0</baseRateOfReturn>
+  <baseOmegaMeasure>-0.15</baseOmegaMeasure>
+  <totalValue>4213333.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>RSTOR322</code>
+  <type>P</type>
+  <label>7&quot; Vinyl Records</label>
+  <quarterlyDividend>2453.21</quarterlyDividend>
+  <baseRateOfReturn>2.1</baseRateOfReturn>
+  <baseOmegaMeasure>0.54</baseOmegaMeasure>
+  <totalValue>13500.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>SAVE01</code>
+  <type>D</type>
+  <label>Savings Account</label>
+  <apr>0.25</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>MONMO1</code>
+  <type>D</type>
+  <label>Money Market Savings</label>
+  <apr>1.05</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CD5YER</code>
+  <type>D</type>
+  <label>5-year CD</label>
+  <apr>4.35</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CD1YER</code>
+  <type>D</type>
+  <label>1-year Rollover CD</label>
+  <apr>2.75</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>ROTIRA</code>
+  <type>D</type>
+  <label>Roth IRA</label>
+  <apr>3.4</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>TABLET</code>
+  <type>S</type>
+  <label>Surface Inc</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <betaMeasure>-0.05</betaMeasure>
+  <baseRateOfReturn>5.6</baseRateOfReturn>
+  <stockSymbol>MIC</stockSymbol>
+  <sharePrice>814.708</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>SCHROK</code>
+  <type>S</type>
+  <label>Schrock Innovation</label>
+  <quarterlyDividend>12.0</quarterlyDividend>
+  <betaMeasure>0.01</betaMeasure>
+  <baseRateOfReturn>3.2</baseRateOfReturn>
+  <stockSymbol>SSI</stockSymbol>
+  <sharePrice>122.75</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>BUBBAG</code>
+  <type>S</type>
+  <label>BubbaGump Shrimp</label>
+  <quarterlyDividend>24.5</quarterlyDividend>
+  <betaMeasure>-0.07</betaMeasure>
+  <baseRateOfReturn>4.3</baseRateOfReturn>
+  <stockSymbol>BUB</stockSymbol>
+  <sharePrice>429.8</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>PEPSI1</code>
+  <type>S</type>
+  <label>Pepsi</label>
+  <quarterlyDividend>5.45</quarterlyDividend>
+  <betaMeasure>0.075</betaMeasure>
+  <baseRateOfReturn>3.1</baseRateOfReturn>
+  <stockSymbol>PEP</stockSymbol>
+  <sharePrice>41.08</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>MILTEC</code>
+  <type>S</type>
+  <label>US Army</label>
+  <quarterlyDividend>45.57</quarterlyDividend>
+  <betaMeasure>0.0</betaMeasure>
+  <baseRateOfReturn>3.19</baseRateOfReturn>
+  <stockSymbol>USA</stockSymbol>
+  <sharePrice>341.91</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CD4523</code>
+  <type>D</type>
+  <label>10-year CD</label>
+  <apr>8.76</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>DTh38R</code>
+  <type>D</type>
+  <label>Money Market Account</label>
+  <apr>0.96</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>YHOO003</code>
+  <type>S</type>
+  <label>Yahoo! Inc.</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <betaMeasure>-0.03</betaMeasure>
+  <baseRateOfReturn>3.4</baseRateOfReturn>
+  <stockSymbol>YHOO</stockSymbol>
+  <sharePrice>28.17</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>MSFT007</code>
+  <type>S</type>
+  <label>Microsoft Corporation</label>
+  <quarterlyDividend>0.92</quarterlyDividend>
+  <betaMeasure>0.17</betaMeasure>
+  <baseRateOfReturn>4.1</baseRateOfReturn>
+  <stockSymbol>MSFT</stockSymbol>
+  <sharePrice>31.15</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>THRE456</code>
+  <type>P</type>
+  <label>Three-14 Pi Shop</label>
+  <quarterlyDividend>1050.5</quarterlyDividend>
+  <baseRateOfReturn>5.6</baseRateOfReturn>
+  <baseOmegaMeasure>0.33</baseOmegaMeasure>
+  <totalValue>23006.53</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>BIKE035</code>
+  <type>P</type>
+  <label>Buck&apos;s Bike Store</label>
+  <quarterlyDividend>3678.19</quarterlyDividend>
+  <baseRateOfReturn>3.9</baseRateOfReturn>
+  <baseOmegaMeasure>0.48</baseOmegaMeasure>
+  <totalValue>47800.35</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>SVSVNGS</code>
+  <type>D</type>
+  <label>Savings Account</label>
+  <apr>0.08</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>TWTTER01</code>
+  <type>S</type>
+  <label>Twitter Inc.</label>
+  <quarterlyDividend>23.0</quarterlyDividend>
+  <betaMeasure>-0.1</betaMeasure>
+  <baseRateOfReturn>11.0</baseRateOfReturn>
+  <stockSymbol>TWTR</stockSymbol>
+  <sharePrice>324.23</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>GLDSD03</code>
+  <type>P</type>
+  <label>Gold</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <baseRateOfReturn>0.24</baseRateOfReturn>
+  <baseOmegaMeasure>0.12</baseOmegaMeasure>
+  <totalValue>2343212.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>MSFT32</code>
+  <type>S</type>
+  <label>Microsoft Inc.</label>
+  <quarterlyDividend>12.0</quarterlyDividend>
+  <betaMeasure>0.45</betaMeasure>
+  <baseRateOfReturn>0.013</baseRateOfReturn>
+  <stockSymbol>MSFT</stockSymbol>
+  <sharePrice>30.23</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>CPPRD03</code>
+  <type>P</type>
+  <label>Copper</label>
+  <quarterlyDividend>1.0</quarterlyDividend>
+  <baseRateOfReturn>0.11</baseRateOfReturn>
+  <baseOmegaMeasure>0.15</baseOmegaMeasure>
+  <totalValue>1111.0</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>ESPN001</code>
+  <type>D</type>
+  <label>Huskers</label>
+  <apr>8.5</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>SEARCH8</code>
+  <type>D</type>
+  <label>Yahoo</label>
+  <apr>1.34</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>VTST</code>
+  <type>D</type>
+  <label>Geigco</label>
+  <apr>1.78</apr>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>WESYT129</code>
+  <type>S</type>
+  <label>Bank of America</label>
+  <quarterlyDividend>3.25</quarterlyDividend>
+  <betaMeasure>0.02</betaMeasure>
+  <baseRateOfReturn>2.4</baseRateOfReturn>
+  <stockSymbol>BOA</stockSymbol>
+  <sharePrice>143.18</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>PWES912</code>
+  <type>S</type>
+  <label>PEPSI INC</label>
+  <quarterlyDividend>5.24</quarterlyDividend>
+  <betaMeasure>0.03</betaMeasure>
+  <baseRateOfReturn>8.14</baseRateOfReturn>
+  <stockSymbol>PEP</stockSymbol>
+  <sharePrice>87.25</sharePrice>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>YUOPCT</code>
+  <type>P</type>
+  <label>WALMART</label>
+  <quarterlyDividend>4789.32</quarterlyDividend>
+  <baseRateOfReturn>0.32</baseRateOfReturn>
+  <baseOmegaMeasure>0.17</baseOmegaMeasure>
+  <totalValue>1004780.66</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>DR0U7Z5TW</code>
+  <type>P</type>
+  <label>TARGET</label>
+  <quarterlyDividend>7812.41</quarterlyDividend>
+  <baseRateOfReturn>2.5</baseRateOfReturn>
+  <baseOmegaMeasure>0.39</baseOmegaMeasure>
+  <totalValue>58963.27</totalValue>
+</asset>
+<asset>
+  <assetId>0</assetId>
+  <code>TEWS4A1MO</code>
+  <type>P</type>
+  <label>AMAZON</label>
+  <quarterlyDividend>9631.45</quarterlyDividend>
+  <baseRateOfReturn>0.64</baseRateOfReturn>
+  <baseOmegaMeasure>0.25</baseOmegaMeasure>
+  <totalValue>296352.87</totalValue>
+</asset>
+</assets>

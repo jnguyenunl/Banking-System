@@ -1,0 +1,297 @@
+Portfolio Summary Report
+===========================================================================================================================
+Portfolio  Owner                Manager                      Fees    Commission   Weighted Risk        Return         Total
+PF0013     Boone, Clementine    Boone, Clementine          150.00 $       82.29          0.8051 $     6583.48 $    19682.16
+PF002      Briggs, Seth         Burris, Wade               150.00 $      264.24          0.1488 $    21139.11 $    10295.39
+PF009      Burton, Peter        Medina, Lynn                 0.00 $        0.00          0.0000 $        0.00 $        0.00
+PF006      Frye, Norman         Vega, Wilma                  0.00 $      758.16          0.0117 $    20217.51 $    78510.47
+PF007      Gilbert, Madonna     Winters, Yuli                0.00 $        0.00          0.0000 $        0.00 $        0.00
+PF003      Kaufman, Georgia     Mclean, Mason              150.00 $       46.52          0.4998 $     3721.99 $    25486.82
+PF0012     Lambert, Jeanette    Love, Dara                 525.00 $      879.35          0.4741 $    70348.00 $  1107746.91
+PF0011     Mccray, Benedict     Boone, Clementine            0.00 $        0.00          0.0000 $        0.00 $        0.00
+PF0014     Medina, Lynn         Medina, Lynn                 0.00 $      442.90          0.8190 $    11810.67 $    64710.40
+PF001      Moon, Jasper         Medina, Lynn                 0.00 $       17.23          0.0000 $      459.60 $    35124.34
+PF008      Morin, Irene         Burris, Wade                 0.00 $        0.00          0.0000 $        0.00 $        0.00
+PF005      Small, Chadwick      Boone, Clementine           75.00 $       64.86          0.1804 $     5188.90 $     7095.35
+PF0010     Vega, Wilma          Vega, Wilma                  0.00 $        0.10          0.0000 $        2.55 $       25.00
+PF004      Whitfield, Herman    Franco, Emery                0.00 $        0.00          0.0000 $        0.00 $        0.00
+                                                     -----------------------------------------------------------------------
+                                              Totals $    1050.00 $     2555.66                 $   139471.79 $  1348676.84
+
+
+
+
+Portfolio Details
+=======================================================================================================================================
+Portfolio PF0013
+----------------------------
+Owner:
+Boone, Clementine
+Junior Broker
+[aklainmand@samsung.com]
+25 Parkside Trail
+Washington, DC US 20337
+Manager:
+Boone, Clementine
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+MALIT389   Walgreens                                                  377.88%            0.49 $            3363.13 $             890.00
+HHAGV39    CVS Corp.                                                   17.14%            0.82 $            3220.34 $           18792.16
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.8051 $            6583.48 $           19682.16
+
+Portfolio PF002
+----------------------------
+Owner:
+Briggs, Seth
+[mbussensq@123-reg.co.uk, acainesq@youku.com, bMccray@gmail.com]
+88344 Lakewood Gardens Trail
+Asheville, NC US 28815
+Manager:
+Burris, Wade
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+SGHFCG     Ace Hardware                                               288.38%            0.21 $           21038.45 $            7295.39
+JQ86O5     Money Market Account                                         3.36%            0.00 $             100.65 $            3000.00
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.1488 $           21139.11 $           10295.39
+
+Portfolio PF009
+----------------------------
+Owner:
+Burton, Peter
+[mtreweke4@parallels.com, tpeyzer4@etsy.com]
+0966 Logan Point
+Huntington, WV US 25711
+Manager:
+Medina, Lynn
+Bineficiary:
+Vega, Wilma
+Expert Broker
+[bcarbin0@exblog.jp]
+95 Hayes Lane
+South Bend, IN US 46634
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $               0.00 $               0.00
+
+Portfolio PF006
+----------------------------
+Owner:
+Frye, Norman
+[sboarera@trellian.com, rpetcha@admin.ch]
+0796 Dunning Pass
+Tyler, TX US 75710
+Manager:
+Vega, Wilma
+Bineficiary:
+Mclean, Mason
+Junior Broker
+[kgilksa@feedburner.com]
+20 Kropf Parkway
+Oakland, CA US 94627
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+VWOUN63    CSK Auto Corp.                                              17.18%           -0.13 $             473.05 $            2753.00
+SGHFCG     Ace Hardware                                               288.38%            0.21 $           17478.10 $            6060.78
+VP18X6     Husker                                                       3.25%            0.00 $            2266.36 $           69696.69
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0117 $           20217.51 $           78510.47
+
+Portfolio PF007
+----------------------------
+Owner:
+Gilbert, Madonna
+[]
+55168 Donald Alley
+Akron, OH US 44315
+Manager:
+Winters, Yuli
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $               0.00 $               0.00
+
+Portfolio PF003
+----------------------------
+Owner:
+Kaufman, Georgia
+[]
+3 Armistice Point
+Lancaster, PA US 17622
+Manager:
+Mclean, Mason
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+ZJIEL71    Hughes Supply Inc.                                          20.35%            0.85 $            3050.36 $           14986.50
+BQ48U8     Saving Account                                               6.40%            0.00 $             671.63 $           10500.32
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.4998 $            3721.99 $           25486.82
+
+Portfolio PF0012
+----------------------------
+Owner:
+Lambert, Jeanette
+[mbraggd@webs.com, gcrummied@theglobeandmail.com]
+591 Johnson Plaza
+Jamaica, NY US 11447
+Manager:
+Love, Dara
+Bineficiary:
+Boone, Clementine
+Junior Broker
+[aklainmand@samsung.com]
+25 Parkside Trail
+Washington, DC US 20337
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+NXAFG17    Humana Inc.                                                  6.69%            0.41 $            3297.16 $           49296.00
+GO60I2     Checking Account                                             2.22%            0.00 $           12617.86 $          567253.09
+TQGOQ12    Gateway Inc.                                                15.80%            0.28 $            4952.65 $           31338.75
+CVTTRANS   Auto Zone                                                  229.92%            0.97 $            6365.04 $            2768.32
+BIGBOD69   Planet Fitness                                              10.76%            1.48 $           35946.58 $          334066.67
+FC08B0     Checking Account                                             6.40%            0.00 $            6396.23 $          100000.00
+JQ86O5     Money Market Account                                         3.36%            0.00 $             772.47 $           23024.08
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.4741 $           70348.00 $         1107746.91
+
+Portfolio PF0011
+----------------------------
+Owner:
+Mccray, Benedict
+[]
+7827 Barby Park
+Grand Rapids, MI US 49518
+Manager:
+Boone, Clementine
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $               0.00 $               0.00
+
+Portfolio PF0014
+----------------------------
+Owner:
+Medina, Lynn
+Expert Broker
+[jcarine1@ask.com]
+4285 Welch Plaza
+West Hartford, CT US 06127
+Manager:
+Medina, Lynn
+Bineficiary:
+Small, Chadwick
+[candrusyakb@dagondesign.com, jdossetterb@lycos.com]
+4 Elka Road
+Charleston, WV US 25326
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+MALIT389   Walgreens                                                  377.88%            0.49 $             755.76 $             200.00
+HHAGV39    CVS Corp.                                                   17.14%            0.82 $           11054.91 $           64510.40
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.8190 $           11810.67 $           64710.40
+
+Portfolio PF001
+----------------------------
+Owner:
+Moon, Jasper
+[]
+89405 Dennis Terrace
+Phoenix, AZ US 85015
+Manager:
+Medina, Lynn
+Bineficiary:
+Frye, Norman
+[sboarera@trellian.com, rpetcha@admin.ch]
+0796 Dunning Pass
+Tyler, TX US 75710
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+RX68W7     1-year Rollover CD                                           1.31%            0.00 $             459.60 $           35124.34
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $             459.60 $           35124.34
+
+Portfolio PF008
+----------------------------
+Owner:
+Morin, Irene
+[glarmor5@washingtonpost.com, cglasard5@sohu.com, pBurton@gmail.com]
+338 Eggendart Terrace
+Asheville, NC US 28805
+Manager:
+Burris, Wade
+Bineficiary:
+Small, Chadwick
+[candrusyakb@dagondesign.com, jdossetterb@lycos.com]
+4 Elka Road
+Charleston, WV US 25326
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $               0.00 $               0.00
+
+Portfolio PF005
+----------------------------
+Owner:
+Small, Chadwick
+[candrusyakb@dagondesign.com, jdossetterb@lycos.com]
+4 Elka Road
+Charleston, WV US 25326
+Manager:
+Boone, Clementine
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+CAF247AD   Super Savers                                                73.13%            0.18 $            5188.90 $            7095.35
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.1804 $            5188.90 $            7095.35
+
+Portfolio PF0010
+----------------------------
+Owner:
+Vega, Wilma
+Expert Broker
+[bcarbin0@exblog.jp]
+95 Hayes Lane
+South Bend, IN US 46634
+Manager:
+Vega, Wilma
+Bineficiary:
+none
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+EU65A2     Money Market Account                                        10.19%            0.00 $               2.55 $              25.00
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $               2.55 $              25.00
+
+Portfolio PF004
+----------------------------
+Owner:
+Whitfield, Herman
+[npinchingg@cam.ac.uk, mmennellg@hatena.ne.jp]
+90 Debs Place
+Houston, TX US 77212
+Manager:
+Franco, Emery
+Bineficiary:
+Kaufman, Georgia
+[]
+3 Armistice Point
+Lancaster, PA US 17622
+Assets:
+Code       Asset                                                   ReturnRate            Risk        Annual Return                Value
+                                                                              ---------------------------------------------------------
+                                                                       Totals          0.0000 $               0.00 $               0.00
+
